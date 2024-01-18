@@ -1,0 +1,6 @@
+.idea
+src/migrations
+src/test/migrations
+__pycache__
+src/.env
+src/.env.production
